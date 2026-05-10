@@ -155,14 +155,6 @@ Financial Insights & Responses
 
 ---
 
-# Important Notes
-
-* V1 is intended for educational and demonstration purposes
-* API keys should never be exposed in production environments
-* V2 focuses on building a scalable and production-ready financial RAG system
-
----
-
 # Status
 
 ✅ Version 1 Completed
